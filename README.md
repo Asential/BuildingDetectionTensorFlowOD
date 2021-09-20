@@ -19,7 +19,6 @@ PDF for more details about the model: <a  href="https://drive.google.com/file/d/
 python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=venv_name
-
 </pre>
 
 <br/>
