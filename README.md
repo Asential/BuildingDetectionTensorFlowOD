@@ -8,7 +8,7 @@ I have followed along the guide of Nicholas Renotte's Object Detection Course fo
 
 ## Steps for using the model
 
-<b>Step 1.</b> You can use the pre-trained model by copying it in the Tensorflow/workspace/models/ directory after creating the virtual env directory & Tensorflow directory in train.ipynb OR create a new one & train the model yourself.
+<b>Step 1.</b> You can use the pre-trained model my_ssd_mobnet by copying it in the Tensorflow/workspace/models/ directory after creating the virtual env directory & Tensorflow directory in train.ipynb OR create a new one & train the model yourself.
  
 <br/>
 <b>Step 2.</b> Create an virutal env, install dependencies and add virtual environment to the Python Kernel
