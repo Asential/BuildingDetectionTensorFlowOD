@@ -4,7 +4,7 @@
 
 I have followed along the guide of Nicholas Renotte's Object Detection Course for creating a model for building detection in satellite images. I have made some small modifications for my ease, but most of the code is referenced from <a  href="https://github.com/nicknochnack/TFODCourse">his github</a>. I found this course really helpful. Here is his channel if you would like to go & support him: <a  href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a> &   <a  href="https://www.youtube.com/watch?v=yqkISICHH-U&t=5644s&ab_channel=NicholasRenotte">the course video</a>.
 
-<img  src="https://imgur.com/a/Cet6OBC">
+<img  src="https://i.imgur.com/BQ0ZQM1.jpg">
 
 ## Steps for using the model
 
